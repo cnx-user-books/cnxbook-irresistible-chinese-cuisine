@@ -1,53 +1,21 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Yidi Wang">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col29267</md:content-id>
-  <md:title>Irresistible Chinese Cuisine</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>3429921b-9082-4dda-98aa-64fe5355e980</md:uuid>
-<md:slug>irresistible-chinese-cuisine</md:slug>
-</metadata>
-
+    <md:content-id>col29267</md:content-id>
+    <md:title>Irresistible Chinese Cuisine</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>3429921b-9082-4dda-98aa-64fe5355e980</md:uuid>
+    <md:slug>irresistible-chinese-cuisine</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Brief introduction</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m76770"/>
-        
-      
-    
-    
-      <col:module document="m76775"/>
-        
-      
-    
-    
-      <col:module document="m76776"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Brief introduction</md:title>
+      <col:content>
+        <col:module document="m76770"/>
+        <col:module document="m76775"/>
+        <col:module document="m76776"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
